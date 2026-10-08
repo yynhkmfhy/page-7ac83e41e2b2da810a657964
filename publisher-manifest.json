@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e442af1b8316364815705887",
+  "owner": "yynhkmfhy",
+  "repo": "page-7ac83e41e2b2da810a657964",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7ac83e41e2b2da810a657964",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9614917c9a004003fbbdd49e4bf8ab4af1ce02c24ccd8dee8d9f195140ccdf65",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享提供专业的VPN网络加速服务，多种流量套餐可选，官网提供客户端下载，助您实现高速稳定网络连接。",
+          "AI_DESCRIPTION": "小火箭分享提供专业的VPN网络加速服务，多种流量套餐可选，官网提供客户端下载，助您实现高速稳定网络连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            background-color: #f5f5dc;\n            font-family: system-ui, -apple-system, sans-serif;\n            margin: 0;\n            padding: 0;\n            color: #333;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: #228B22;\n            text-align: center;\n            margin-bottom: 30px;\n        }\n        .main-content {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 40px;\n        }\n        .left-column, .right-column {\n            flex: 1;\n            min-width: 300px;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: #228B22;\n            margin-bottom: 15px;\n        }\n        p, ul, ol {\n            font-size: 1rem;\n            line-height: 1.6;\n            color: #333;\n        }\n        ul {\n            padding-left: 20px;\n        }\n        ol {\n            padding-left: 20px;\n        }\n        .plan-card {\n            background-color: #f9f9f9;\n            padding: 20px;\n            border-radius: 8px;\n            border: 1px solid #ddd;\n            margin-bottom: 15px;\n        }\n        .plan-card.featured {\n            border-color: #228B22;\n            box-shadow: 0 4px 8px rgba(34,139,34,0.2);\n        }\n        .plan-name {\n            font-size: 1.4rem;\n            color: #228B22;\n            margin-bottom: 10px;\n        }\n        .plan-price {\n            font-size: 1.2rem;\n            font-weight: bold;\n            color: #555;\n        }\n        details {\n            margin-bottom: 15px;\n            border: 1px solid #ddd;\n            border-radius: 5px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 15px;\n            background-color: #f5f5f5;\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        summary:hover {\n            background-color: #e5e5e5;\n        }\n        .answer {\n            padding: 15px;\n            border-top: 1px solid #ddd;\n            background-color: #fff;\n            font-size: 1rem;\n            color: #333;\n        }\n        @media (max-width: 768px) {\n            .main-content {\n                flex-direction: column;\n            }\n            h1 {\n                font-size: 2rem;\n            }\n            h2 {\n                font-size: 1.5rem;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>小火箭分享</h1>\n        <div class=\"main-content\">\n            <div class=\"left-column\">\n                <h2>什么是小火箭分享</h2>\n                <p>小火箭分享是一款专业的VPN网络加速器，旨在提供稳定、高速的网络连接服务。通过先进的节点优化和流量管理，帮助用户轻松突破地域限制，畅享高清视频、游戏加速以及远程办公等服务。</p>\n                <h2>使用场景</h2>\n                <ul>\n                    <li>海外视频观看：支持解锁Netflix、YouTube等主流流媒体平台</li>\n                    <li>游戏加速：IPLC专线优化网络延迟，适合在线游戏</li>\n                    <li>远程办公：提供可靠连接，避免中断，保障工作效率</li>\n                    <li>日常浏览：高速节点池，提升上网速度与稳定性</li>\n                </ul>\n            </div>\n            <div class=\"right-column\">\n                <h2>配置流程</h2>\n                <ol>\n                    <li>选择适合您的流量套餐</li>\n                    <li>访问官网下载客户端</li>\n                    <li>安装客户端并使用您的账号登录</li>\n                    <li>选择合适的节点进行连接</li>\n                    <li>完成配置，即可享受加速服务</li>\n                </ol>\n                <h2>套餐选择</h2>\n                <div>\n                    <div class=\"plan-card\">\n                        <h3 class=\"plan-name\">基础版</h3>\n                        <p class=\"plan-price\">¥15/月</p>\n                        <p>按年付仅需 ¥150/年</p>\n                        <ul>\n                            <li>每月 100GB 极速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan-card featured\">\n                        <h3 class=\"plan-name\">旗舰版</h3>\n                        <p class=\"plan-price\">¥35/月</p>\n                        <p>按年付仅需 ¥350/年</p>\n                        <ul>\n                            <li>每月 300GB 极速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan-card\">\n                        <h3 class=\"plan-name\">团队版</h3>\n                        <p class=\"plan-price\">¥85/月</p>\n                        <p>按年付仅需 ¥850/年</p>\n                        <ul>\n                            <li>每月 1000GB 极速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <h2>常见问题</h2>\n        <details>\n            <summary>小火箭分享是什么？</summary>\n            <p class=\"answer\">小火箭分享是一款专业的VPN网络加速器，提供稳定高速的网络连接服务，帮助用户突破地域限制，畅享高清内容与游戏乐趣。</p>\n        </details>\n        <details>\n            <summary>如何下载和安装客户端？</summary>\n            <p class=\"answer\">在官网上选择对应平台下载客户端，按照安装向导完成安装，登录账号后即可使用。</p>\n        </details>\n        <details>\n            <summary>基础版适合什么使用场景？</summary>\n            <p class=\"answer\">基础版适合个人用户日常浏览和基础流媒体解锁，提供足够的100GB流量和3台设备支持。</p>\n        </details>\n        <details>\n            <summary>旗舰版有哪些优势？</summary>\n            <p class=\"answer\">旗舰版支持300GB流量，5台设备在线，全节点原生解锁IPLC游戏加速，优先工单支持，是游戏玩家和企业用户的理想选择。</p>\n        </details>\n        <details>\n            <summary>团队版如何获得支持？</summary>\n            <p class=\"answer\">团队版提供1000GB流量，20台设备支持，VIP高带宽节点，企业定制路由和专属客户经理服务，适合大型团队使用。</p>\n        </details>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "98d818578f0000441dd0a28fe7ff1608681689f33582e66f6aab3ed93894b7ec",
+          "seo": {
+            "title": "小火箭分享 - VPN 网络加速器 | 客户端下载 | 官网",
+            "keywords": "小火箭分享,VPN,网络加速器,客户端下载,流量套餐",
+            "description": "小火箭分享提供专业的VPN网络加速服务，多种流量套餐可选，官网提供客户端下载，助您实现高速稳定网络连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "scpwq.com",
+    "host": "p-8c2e9673fd.scpwq.com",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7421525ce40a4298f1e9b1703053b94760ff068ad6085155f6dc7d676c529b1c",
+    "sitemap.xml": "c198391fb7c2ac0474659f8f7f1ac34be4993af06b5fe59461419ded3012241a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5cf4c805cc7debe22ba230630b5febec49e8042d2ae5f5d17b77a13d74dd4b66",
+    "robots.txt": "ed98868e88122a75cbe1cd898e4a6a0242fbfc602cb6040e504d408d91faad86",
+    "f158fd72a3501c64e9561e6dc47eb882.txt": "87e1e9a208564f8c865c1617bde8d52d1895ab854bf0cefcb726726c38d90606"
+  },
+  "revision": "6f370d4efd0fdb17f6e4b7180de030398094612d32428e8c10696784ce19b4f3"
+}
